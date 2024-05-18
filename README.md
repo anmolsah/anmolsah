@@ -1,4 +1,4 @@
-![Screenshot 2024-04-10 000318](https://github.com/anmolsah/anmolsah/assets/113588714/500dd0a6-7bfd-4f56-aa6c-cf921f76cd54)# Hi there! 👋 I'm Anmol Sah
+# Hi there! 👋 I'm Anmol Sah
 
 I'm a passionate Full Stack Developer with expertise in building web applications using modern technologies. I love creating intuitive and user-friendly interfaces.
 
