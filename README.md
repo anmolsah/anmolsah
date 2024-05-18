@@ -34,11 +34,21 @@ Created Boardy using pure JavaScript, CSS, and HTML for a lightweight whiteboard
 
 ![Boardy Preview](https://github.com/anmolsah/anmolsah/assets/113588714/e7a0df6d-50f6-4add-9d35-284f1897bcd6)
 
+
 ## 📫 Contact Me
 
-Feel free to reach out to me via email at [annifind010@gmail.com](mailto:annifind010@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anmol-sah-551083238/)
+<p align="center">
+  <a href="mailto:annifind010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/anmol-sah-551083238/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;" />
+  </a>
+</p>
+
 
 ## 🌱 Current Focus
+
 I'm actively working on several projects using the MERN (MongoDB, Express, React, Node.js) stack to further develop my full-stack capabilities.
 
 ## 🎨 Fun Fact
