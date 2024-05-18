@@ -4,11 +4,25 @@ I'm a passionate Full Stack Developer with expertise in building web application
 
 ## 🔧 Skills & Expertise
 
-- **Languages:** HTML, CSS, JavaScript, C++
-- **Frontend:** ReactJS
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, NoSQL
-- **Others:** GitHub
+### Languages
+![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Expert-brightgreen?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-brightgreen?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/C++-Intermediate-yellow?style=flat-square&logo=cplusplus)
+
+### Frontend
+![ReactJS](https://img.shields.io/badge/ReactJS-Expert-brightgreen?style=flat-square&logo=react)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-Expert-brightgreen?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-Expert-brightgreen?style=flat-square&logo=express)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-Expert-brightgreen?style=flat-square&logo=mongodb)
+![NoSQL](https://img.shields.io/badge/NoSQL-Intermediate-yellow?style=flat-square)
+
+### Others
+![GitHub](https://img.shields.io/badge/GitHub-Expert-brightgreen?style=flat-square&logo=github)
 
 ## 🚀 Top Projects
 
