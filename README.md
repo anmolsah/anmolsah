@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anmol Sah
+![Screenshot 2024-04-10 000318](https://github.com/anmolsah/anmolsah/assets/113588714/500dd0a6-7bfd-4f56-aa6c-cf921f76cd54)# Hi there! 👋 I'm Anmol Sah
 
 I'm a passionate Full Stack Developer with expertise in building web applications using modern technologies. I love creating intuitive and user-friendly interfaces.
 
@@ -13,18 +13,19 @@ I'm a passionate Full Stack Developer with expertise in building web application
 ## 🚀 Top Projects
 
 ### Project 1: Netflix-Gemini
-Developed Netflix-Gemini using ReactJS and Firebase for secure authentication. Integrated OpenAI API to assist users in finding personalized movie recommendations. Designed a user-centric platform for seamless movie browsing and enjoyment.
+Developed Netflix-Gemini using ReactJS and Firebase for secure authentication. Integrated GEMINI API to assist users in finding personalized movie recommendations. Designed a user-centric platform for seamless movie browsing and enjoyment.
 - **Technologies:** React, Redux, Firebase
-- [Link to Netflix-Gemini](https://netflix-gemini.vercel.app/browse)
+- [Netflix-Gemini](https://netflix-gemini.vercel.app/browse)
 
-![Netflix-Gemini Preview](file:///C:/Users/ANMOL%20SAH/Downloads/Screenshot%202024-04-10%20000318.png)
+![Netflix-Gemini Preview](https://github.com/anmolsah/anmolsah/assets/113588714/c7219a7f-438c-4dd0-a8fd-829cc4bbd35b)
+
 
 ### Project 2: Boardy
 Created Boardy using pure JavaScript, CSS, and HTML for a lightweight whiteboard. Incorporated drawing, note-making, and teaching tools with customizable backgrounds. Implemented user-friendly features like saving, deleting, undoing, and clearing for enhanced usability.
 - **Technologies:** HTML, CSS, JavaScript
-- [Link to Boardy](https://anmolsah.github.io/Boardy/whiteboard.html)
+- [Boardy](https://anmolsah.github.io/Boardy/whiteboard.html)
 
-![Boardy Preview](file:///C:/Users/ANMOL%20SAH/OneDrive/Pictures/boardyy.jpg)
+![Boardy Preview](https://github.com/anmolsah/anmolsah/assets/113588714/e7a0df6d-50f6-4add-9d35-284f1897bcd6)
 
 ## 📫 Contact Me
 
