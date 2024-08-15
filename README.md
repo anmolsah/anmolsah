@@ -13,6 +13,7 @@ I'm a passionate Full Stack Developer with expertise in building web application
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 10px; height: 30px;" />
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="height: 30px;" />
   <img src="https://img.shields.io/badge/NoSQL-%23000000.svg?&style=for-the-badge&logo=nonoSQL&logoColor=white" alt="NoSQL" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 30px;" />
 </p>
