@@ -30,10 +30,10 @@ Developed Netflix-Gemini using ReactJS and Firebase for secure authentication. I
 
 ### Project 2: imagiNATION
 Imagination is a Text-to-Image Generator SaaS website built using the MERN stack and Razorpay for seamless payment integration. The website allows users to generate images from text prompts, leveraging AI to create custom visuals based on user input. It features a smooth and seamless design, ensuring a user-friendly experience. The platform is fully authenticated, providing secure user access and functionality.
-- **Technologies:** HTML, CSS, JavaScript
+- **Technologies:** MongoDB, Express, Reactjs, Nodejs and Razorpay
 - [imagiNATION](https://imagination-xgvo.vercel.app/)
 
-![Boardy Preview](https://github.com/anmolsah/anmolsah/assets/113588714/e7a0df6d-50f6-4add-9d35-284f1897bcd6)
+![Imagination Preview](https://github.com/user-attachments/assets/4cc6f37d-75c5-4a47-a3e5-1abecf9704de)
 
 
 ## 📫 Contact Me
@@ -50,11 +50,12 @@ Imagination is a Text-to-Image Generator SaaS website built using the MERN stack
 
 ## 🌱 Current Focus
 
-I'm actively working on several projects using the MERN (MongoDB, Express, React, Node.js) stack to further develop my full-stack capabilities.
+I'm actively working on several projects using the MERN (MongoDB, Express, React, Node.js) stack to further develop my full-stack capabilities. I'm also exploring React Native to expand my mobile development skills and diving deeper into problem-solving to sharpen my algorithms and data structures knowledge. It's all about growing as a well-rounded developer and staying on top of the latest tech trends! 🚀
 
-## 🎨 Fun Fact
 
-I love to explore new technology in my free time and read articles on new technology. I also code in my free time!
+## 🎉 Fun Fact
+- I once built a web app to track my hamster’s running habits (using React, Node.js, and MongoDB) — turns out, he’s a full-stack developer too... He only runs in circles, but hey, at least he’s consistent! 🐹💨💻
+
 
 
 <!--
