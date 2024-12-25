@@ -28,10 +28,10 @@ Developed Netflix-Gemini using ReactJS and Firebase for secure authentication. I
 ![Netflix-Gemini Preview](https://github.com/anmolsah/anmolsah/assets/113588714/c7219a7f-438c-4dd0-a8fd-829cc4bbd35b)
 
 
-### Project 2: Boardy
-Created Boardy using pure JavaScript, CSS, and HTML for a lightweight whiteboard. Incorporated drawing, note-making, and teaching tools with customizable backgrounds. Implemented user-friendly features like saving, deleting, undoing, and clearing for enhanced usability.
+### Project 2: imagiNATION
+Imagination is a Text-to-Image Generator SaaS website built using the MERN stack and Razorpay for seamless payment integration. The website allows users to generate images from text prompts, leveraging AI to create custom visuals based on user input. It features a smooth and seamless design, ensuring a user-friendly experience. The platform is fully authenticated, providing secure user access and functionality.
 - **Technologies:** HTML, CSS, JavaScript
-- [Boardy](https://anmolsah.github.io/Boardy/whiteboard.html)
+- [imagiNATION](https://imagination-xgvo.vercel.app/)
 
 ![Boardy Preview](https://github.com/anmolsah/anmolsah/assets/113588714/e7a0df6d-50f6-4add-9d35-284f1897bcd6)
 
