@@ -10,7 +10,7 @@
  
  🔭 I'm currently working on **building innovative MERN stack applications**
  
- 🌱 I'm currently learning **React Native, AWS, and System Design**
+ 🌱 I'm currently learning **React Native, NextJs**
 
  💬 Ask me about **React, Node.js, MongoDB, Express... or anything [here](https://github.com/anmolsah/anmolsah/issues)**
 
@@ -81,7 +81,7 @@
   <p>🔍 Diving deep into advanced React patterns and performance optimization</p>
   <p>📱 Exploring React Native for cross-platform mobile development</p>
   <p>🧠 Enhancing problem-solving skills with DSA</p>
-  <p>☁️ Learning cloud technologies (AWS)</p>
+<!--   <p>☁️ Learning cloud technologies (AWS)</p> -->
 </div>
 
 <br/>
