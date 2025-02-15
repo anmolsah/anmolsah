@@ -14,7 +14,7 @@
 
  💬 Ask me about **React, Node.js, MongoDB, Express... or anything [here](https://github.com/anmolsah/anmolsah/issues)**
 
- ⚡ Fun fact: **I once built a web app to track my hamster's running habits — turns out, he's a full-stack developer too... He only runs in circles, but hey, at least he's consistent! 🐹**
+ ⚡ Fun fact: **I spend more time Googling errors than actually writing code. 🔍💻**
  
  </div>
  
