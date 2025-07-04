@@ -53,6 +53,15 @@
 
 <br/><br/>
 
+
+<div align="center">
+  <a href="https://www.firstissue.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Source%20Tool-FirstIssue.dev-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="FirstIssue.dev Badge" />
+  </a>
+</div>
+<br/>
+
+
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 <br/>
 
