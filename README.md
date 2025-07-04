@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="https://www.firstissue.dev/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/20106dd9-05eb-4754-86c1-cddab86aebb7" width="400" alt="Firstissue-dev"/>
+    <img src="https://github.com/user-attachments/assets/20106dd9-05eb-4754-86c1-cddab86aebb7" width="400" alt="Firstissue-dev"  target="_blank" />
   </a>
   <a href="https://imagination-xgvo.vercel.app/" target="_blank">
     <img src="https://github.com/user-attachments/assets/4cc6f37d-75c5-4a47-a3e5-1abecf9704de" width="400" alt="imagiNATION"/>
