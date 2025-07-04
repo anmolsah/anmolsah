@@ -57,7 +57,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://netflix-gemini.vercel.app/browse" target="_blank">
+  <a href="https://www.firstissue.dev/" target="_blank">
     <img src="https://github.com/anmolsah/anmolsah/assets/113588714/c7219a7f-438c-4dd0-a8fd-829cc4bbd35b" width="400" alt="Netflix-Gemini"/>
   </a>
   <a href="https://imagination-xgvo.vercel.app/" target="_blank">
@@ -65,8 +65,8 @@
   </a>
   <br/>
 
-  <h3>🎬 Netflix-Gemini</h3>
-  <p>A Netflix clone powered by GEMINI API for personalized movie recommendations. Built with React, Redux, and Firebase.</p>
+  <h3>Firstissue.dev</h3>
+  <p>A platform that helps beginners explore beginner-friendly GitHub issues, bookmark them, track their contribution status, and get AI-powered guidance for making their first open-source contributions.</p>
   
   <h3>🎨 imagiNATION</h3>
   <p>A Text-to-Image Generator SaaS platform built with MERN stack and Razorpay integration. Transform your ideas into visuals!</p>
