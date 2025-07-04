@@ -65,7 +65,7 @@
   </a>
   <br/>
 
-  <h3>Firstissue.dev</h3>
+  <h3>🌱 Firstissue.dev</h3>
   <p>A platform that helps beginners explore beginner-friendly GitHub issues, bookmark them, track their contribution status, and get AI-powered guidance for making their first open-source contributions.</p>
   
   <h3>🎨 imagiNATION</h3>
