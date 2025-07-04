@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="https://www.firstissue.dev/" target="_blank">
-    <img src="https://github.com/anmolsah/anmolsah/assets/113588714/c7219a7f-438c-4dd0-a8fd-829cc4bbd35b" width="400" alt="Netflix-Gemini"/>
+    <img src="https://github.com/user-attachments/assets/20106dd9-05eb-4754-86c1-cddab86aebb7" width="400" alt="Firstissue-dev"/>
   </a>
   <a href="https://imagination-xgvo.vercel.app/" target="_blank">
     <img src="https://github.com/user-attachments/assets/4cc6f37d-75c5-4a47-a3e5-1abecf9704de" width="400" alt="imagiNATION"/>
