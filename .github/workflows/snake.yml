@@ -2,8 +2,11 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch:     # Allow manual trigger from Actions tab
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:       # Allows manual trigger from Actions tab
+
+permissions:
+  contents: write           # REQUIRED to push to branches
 
 jobs:
   generate:
