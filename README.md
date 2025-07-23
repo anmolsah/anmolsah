@@ -1,207 +1,135 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anmol%20Sah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver+💡" />
-</div>
-
-<h3 align="center">🚀 Passionate Full Stack Developer crafting digital experiences with modern technologies</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anmolsah&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/anmolsah?style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/anmolsah?style=for-the-badge&color=yellow" alt="stars" />
-</div>
-
-<br/>
-
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-const anmol = {
-  pronouns: "He/Him",
-  location: "India 🇮🇳",
-  currentFocus: "Full Stack Development",
-  learning: ["React Native", "NextJS", "TypeScript"],
-  askMeAbout: ["React", "Node.js", "MongoDB", "Express"],
-  technologies: {
-    frontEnd: ["React", "HTML", "CSS", "JavaScript", "Tailwind"],
-    backEnd: ["Node.js", "Express", "MongoDB", "Firebase"],
-    tools: ["Git", "VS Code", "Postman", "Vercel"],
-    databases: ["MongoDB", "Supabase", "Firebase"]
-  },
-  funFact: "I spend more time Googling errors than writing code 🔍"
-};
-```
-
-<br/>
-
-## 🌟 Current Journey
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🔭</td>
-      <td><strong>Working on:</strong> Building innovative MERN stack applications</td>
-    </tr>
-    <tr>
-      <td align="center">🌱</td>
-      <td><strong>Learning:</strong> React Native, NextJS, Advanced React Patterns</td>
-    </tr>
-    <tr>
-      <td align="center">👯</td>
-      <td><strong>Collaboration:</strong> Open for full-stack projects and open source</td>
-    </tr>
-    <tr>
-      <td align="center">💬</td>
-      <td><strong>Ask me about:</strong> React, Node.js, MongoDB, Express... <a href="https://github.com/anmolsah/anmolsah/issues">or anything here</a></td>
-    </tr>
-    <tr>
-      <td align="center">⚡</td>
-      <td><strong>Fun fact:</strong> I turn coffee into code and bugs into features ☕→💻</td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="mailto:annifind010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/anmol-sah-551083238/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://retro-ra.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/anmolsah" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-<br/>
-
-## ⚒️ Tech Stack & Tools
-
-<div align="center">
-  
-  ### Frontend Technologies
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,bootstrap,mui,vite" />
-  
-  ### Backend Technologies  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,cpp" />
-  
-  ### Development Tools
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify" />
-  
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="370" src="https://github-readme-stats-salesp07.vercel.app/api?username=anmolsah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="390" src="https://streak-stats.demolab.com/?user=anmolsah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="500" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anmolsah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anmolsah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://www.firstissue.dev/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/20106dd9-05eb-4754-86c1-cddab86aebb7" width="100%" alt="Firstissue.dev"/>
-        </a>
-        <br/>
-        <h3>🌱 Firstissue.dev</h3>
-        <p><strong>Open Source Contribution Platform</strong></p>
-        <p>Helps beginners explore GitHub issues, bookmark them, track contributions, and get AI-powered guidance for first-time contributors.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://imagination-xgvo.vercel.app/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/4cc6f37d-75c5-4a47-a3e5-1abecf9704de" width="100%" alt="imagiNATION"/>
-        </a>
-        <br/>
-        <h3>🎨 imagiNATION</h3>
-        <p><strong>AI-Powered Text-to-Image SaaS</strong></p>
-        <p>Transform your ideas into visuals with AI! Full-stack SaaS platform with payment integration and user management.</p>
-        <p>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
-      </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/anmolsah?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" />
-  </a>
-</div>
-
-<br/>
-
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anmolsah/anmolsah/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+build+something+amazing!;Always+open+for+collaboration+🤝;Happy+coding!+👨‍💻">
-  </h3>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://gssoc.girlscript.tech/badges/gssoc25-badge.png" alt="GSSoC'25" width="300"/>
+  <h3>🎉 Proudly participating in GirlScript Summer of Code 2025! 🎉</h3>
 </div>
 
 ---
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/anmolsah">anmolsah</a> | Made with ❤️ and lots of ☕</i>
-</div>
+# **Flavor AI**
+> *Built with CodeBuff* 🚀
+
+Welcome to FlavorAI, your AI-powered culinary companion! This project is designed to make meal planning and recipe exploration effortless and fun. Whether you're looking for AI-curated recipes, diverse food categories, or exciting culinary surprises, FlavorAI has it all.
+
+### :movie_camera: Demo
+[![YouTube](https://github.com/Ayushjhawar8/Flavor-ai/blob/main/app/screenshots/homepage.png)](https://www.youtube.com/watch?v=OYd8R6s_UZs)
+
+
+## 🚀 Features
+
+- **AI-Curated Recipes**: Generate recipes tailored to your preferences.
+- **Random Recipe Discovery**: Discover a surprise recipe at the click of a button.
+- **Diverse Meal Categories**: Browse through various categories like Beef, Chicken, Desserts, and more.
+- **Responsive Design**: Optimized for devices of all sizes.
+- **Dynamic Search**: Quickly find recipes with the integrated search bar.
+- **Voice Input**: Use voice commands to describe your desired recipe.
+- **Text-to-Speech**: Listen to recipe instructions while cooking.
+- **Smart Filtering**: Filter recipes by dietary restrictions and cuisine types.
+
+## 🎯 Key Functionalities
+
+1. **Recipe Generation**
+   - Describe your desired dish
+   - Set dietary restrictions
+   - Choose cuisine type
+   - Adjust spice levels
+   - Get AI-generated recipes with images
+
+2. **Recipe Search**
+   - Quick search functionality
+   - Category-based browsing
+   - Random recipe discovery
+   - Detailed recipe views
+
+3. **Accessibility Features**
+   - Voice input for hands-free operation
+   - Text-to-speech for recipe instructions
+   - Responsive design for all devices
+   - Clear, readable typography
+  
+   
+## Screenshots
+
+Here are some screenshots of the project in action:
+
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| ![Screenshot 1](https://github.com/Ayushjhawar8/Flavor-ai/blob/main/app/screenshots/homepage.png) | ![Screenshot 2](https://github.com/Ayushjhawar8/Flavor-ai/blob/main/app/screenshots/aiGenerateRecipe.png) |
+
+| Screenshot 3 | Screenshot 4 |
+|--------------|--------------|
+| ![Screenshot 3](https://github.com/Ayushjhawar8/Flavor-ai/blob/main/app/screenshots/Category.png) | ![Screenshot 4](https://github.com/Ayushjhawar8/Flavor-ai/blob/main/app/screenshots/RandomRecipe.png) |
+
+## 🖥️ Tech Stack
+
+- **Frontend**: Next.js
+- **Backend**: Fetches data from a custom API
+- **Styling**: Tailwind CSS, DaisyUI
+- **AI Integration**: OpenAI/Groq API
+- **Hosting**: Vercel
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ayushjhawar8/flavor-ai.git
+   ```
+
+2. Add Your Groq Api key in `.env.sample` file and change file name to `.env`:
+   ```bash
+   GROQ_API_KEY=your_api_key_here
+   ```
+
+3. Install dependencies:
+   ```bash
+   cd Flavor-ai && npm install
+   ```
+
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 🎨 Project Structure
+
+```
+flavor-ai/
+├── app/                  # Next.js app directory
+│   ├── ai/              # AI recipe generation
+│   ├── category/        # Category pages
+│   ├── meal/            # Individual meal pages
+│   └── random/          # Random recipe page
+├── components/          # Reusable components
+├── lib/                 # Utility functions
+└── public/             # Static assets
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Built with [Next.js](https://nextjs.org/), [CodeBuff](https://www.codebuff.com/docs/help#getting-started-with-codebuff)
+- Styled with [Tailwind CSS](https://tailwindcss.com/)
+- UI components from [DaisyUI](https://daisyui.com/)
+- AI powered by [Groq](https://groq.com/)
+
+## 🔗 Links
+
+- [Live Demo](https://flavor-ai-dish.netlify.app/)
+- [GitHub Repository](https://github.com/Ayushjhawar8/flavor-ai)
+
+<p align="center">
+  <a href="/" style="text-decoration:none;">
+    <strong>🔝 Back to Top</strong>
+  </a>
+</p>
+---
+Built with CodeBuff 🚀
+
