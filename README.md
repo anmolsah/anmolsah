@@ -39,34 +39,6 @@ const anmol = {
 
 <br/>
 
-## 🌟 Current Journey
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🔭</td>
-      <td><strong>Working on:</strong> Building innovative MERN stack applications</td>
-    </tr>
-    <tr>
-      <td align="center">🌱</td>
-      <td><strong>Learning:</strong> React Native, NextJS, Advanced React Patterns</td>
-    </tr>
-    <tr>
-      <td align="center">👯</td>
-      <td><strong>Collaboration:</strong> Open for full-stack projects and open source</td>
-    </tr>
-    <tr>
-      <td align="center">💬</td>
-      <td><strong>Ask me about:</strong> React, Node.js, MongoDB, Express... <a href="https://github.com/anmolsah/anmolsah/issues">or anything here</a></td>
-    </tr>
-    <tr>
-      <td align="center">⚡</td>
-      <td><strong>Fun fact:</strong> I turn coffee into code and bugs into features ☕→💻</td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 ## 🌐 Let's Connect
 
