@@ -105,21 +105,23 @@ const anmol = {
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://www.firstissue.dev/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/20106dd9-05eb-4754-86c1-cddab86aebb7" width="100%" alt="Firstissue.dev"/>
+        <a href="https://movieco-ubb9.vercel.app/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/71463f8e-6556-4b86-b257-5b92f3e4d724" width="100%" alt="movieco" />
         </a>
         <br/>
-        <h3>🌱 Firstissue.dev</h3>
-        <p><strong>Open Source Contribution Platform</strong></p>
-        <p>Helps beginners explore GitHub issues, bookmark them, track contributions, and get AI-powered guidance for first-time contributors.</p>
+        <h3>🍿 Movieco</h3>
+        <p><strong>Movieco is a cutting-edge movie and TV show discovery platform.</strong></p>
+        <p> Built with modern web technologies, it offers an intuitive and engaging experience for movie enthusiasts to discover, track, and manage their entertainment preferences.</p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
+          <img src="https://img.shields.io/badge/TMDB_API-01D277?style=flat-square&logo=themoviedatabase&logoColor=white" alt="TMDB API" />
         </p>
       </td>
       <td width="50%" align="center">
         <a href="https://imagination-xgvo.vercel.app/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/4cc6f37d-75c5-4a47-a3e5-1abecf9704de" width="100%" alt="imagiNATION"/>
+   <img src="https://github.com/user-attachments/assets/4cc6f37d-75c5-4a47-a3e5-1abecf9704de" width="100%" alt="imagiNATION"/> 
         </a>
         <br/>
         <h3>🎨 imagiNATION</h3>
