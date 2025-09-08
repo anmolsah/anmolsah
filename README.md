@@ -120,19 +120,23 @@ const anmol = {
         </p>
       </td>
       <td width="50%" align="center">
-        <a href="https://imagination-xgvo.vercel.app/" target="_blank">
-   <img src="https://github.com/user-attachments/assets/4cc6f37d-75c5-4a47-a3e5-1abecf9704de" width="100%" alt="imagiNATION"/> 
+        <a href="https://nexora-ai-frontend-nine.vercel.app/" target="_blank">
+  <img alt="nexoraimg" src="https://github.com/user-attachments/assets/296c7be2-cb64-4de2-bf40-71863bc80419" width="100%" />
         </a>
         <br/>
-        <h3>🎨 imagiNATION</h3>
-        <p><strong>AI-Powered Text-to-Image SaaS</strong></p>
-        <p>Transform your ideas into visuals with AI! Full-stack SaaS platform with payment integration.</p>
+        <h3>🧬 NexoraAI</h3>
+        <p><strong>NexoraAI is a comprehensive AI-powered content creation platform.</strong></p>
+        <p>It provides users with a suite of intelligent tools to generate articles, create images, edit photos, and review resumes. Built with modern web technologies, it offers both free and premium tiers to cater to different user needs.</p>
         <p>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
           <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenRouter" />
+<img src="https://img.shields.io/badge/Neon_DB-00CFFF?style=flat-square&logo=neon&logoColor=white" alt="Neon Database" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Cloudinary-FF6C37?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Clerk-6E43FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk" />
+<img src="https://img.shields.io/badge/OpenAPI-6C7A89?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
       </p>
       </td>
     </tr>
