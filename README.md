@@ -70,7 +70,7 @@ const anmol = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,cpp" />
   
   ### Development Tools
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify,docker" />
   
 </div>
 
