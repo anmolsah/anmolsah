@@ -93,6 +93,15 @@ const anmol = {
 
 ## 🏆 GitHub Achievements
 
+## 🪪 Holopin Badges
+
+<div align="center">
+  
+[![An image of @anmolsah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anmolsah)](https://holopin.io/@anmolsah)
+
+</div>
+
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anmolsah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
