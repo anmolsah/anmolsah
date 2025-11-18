@@ -31,10 +31,10 @@ const anmol = {
 
 ## 🌐 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annifind010@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-sah-551083238/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://retro-ra.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anmolsah)
+[![Email](https://badgelab.dev/api/badge/gmail-white)](mailto:annifind010@gmail.com)
+[![Linkedin](https://badgelab.dev/api/badge/linkedin-white)](https://www.linkedin.com/in/anmol-sah-551083238/)
+[![Portfolio](https://badgelab.dev/api/badge/portfolio-white)](https://retro-ra.vercel.app/)
+[![Twitter](https://badgelab.dev/api/badge/twitter-white)](https://twitter.com/anmolsah)
 
 ## ⚒️ Tech Stack & Tools
 
@@ -97,7 +97,7 @@ It provides users with a suite of intelligent tools to generate articles, create
 ![Clerk](https://img.shields.io/badge/Clerk-6E43FF?style=flat-square&logo=clerk&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6C7A89?style=flat-square&logo=openapiinitiative&logoColor=white)
 
-[![View all projects](https://img.shields.io/badge/View%20All%20Projects-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmolsah?tab=repositories)
+[![View all projects](https://badgelab.dev/api/badge/github)](https://github.com/anmolsah?tab=repositories)
 
 ## 💭 Random Dev Quote
 
@@ -113,4 +113,4 @@ It provides users with a suite of intelligent tools to generate articles, create
 
 ---
 
-*⭐️ From [anmolsah](https://github.com/anmolsah) | Made with ❤️ and lots of ☕*
+*⭐️ From [anmolsah](https://github.com/anmolsah) & [Ethan Illingsworth](https://github.com/ethanillingsworth) | Made with ❤️ and lots of ☕*
