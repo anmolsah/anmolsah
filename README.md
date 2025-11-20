@@ -33,7 +33,7 @@ const anmol = {
 
 [![Email](https://badgelab.dev/api/badge/gmail-white)](mailto:annifind010@gmail.com)
 [![Linkedin](https://badgelab.dev/api/badge/linkedin-white)](https://www.linkedin.com/in/anmol-sah-551083238/)
-[![Portfolio](https://badgelab.dev/api/badge/portfolio-white)](https://retro-ra.vercel.app/)
+[![Portfolio](https://badgelab.dev/api/badge/portfolio-white)](https://newspaper-theme-porfolio.vercel.app/)
 [![Twitter](https://badgelab.dev/api/badge/twitter-white)](https://twitter.com/anmolsah)
 
 ## ⚒️ Tech Stack & Tools
