@@ -25,7 +25,7 @@ const anmol = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
   currentFocus: "Full Stack Development",
-  learning: ["NextJS", "TypeScript"],
+  learning: ["NextJS", "TypeScript", "Docker"],
   askMeAbout: ["React", "Node.js", "MongoDB", "Express"],
   technologies: {
     frontEnd: ["React", "HTML", "CSS", "JavaScript", "Tailwind"],
