@@ -113,19 +113,35 @@ const anmol = {
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://movieco-ubb9.vercel.app/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/71463f8e-6556-4b86-b257-5b92f3e4d724" width="100%" alt="movieco" />
+        <a href="https://thumbgen.online/" target="_blank">
+         <img width="1898" height="863" alt="Screenshot 2026-01-08 191557" src="https://github.com/user-attachments/assets/63f1ffca-4d3b-4423-b9f5-56aa60343f9b" alt="thumbgen" />
         </a>
         <br/>
-        <h3>🍿 Movieco</h3>
-        <p><strong>Movieco is a cutting-edge movie and TV show discovery platform.</strong></p>
-        <p> Built with modern web technologies, it offers an intuitive and engaging experience for movie enthusiasts to discover, track, and manage their entertainment preferences.</p>
+        <h3>🧬 Thumbgen.ai</h3>
+        <p><strong>AI-Powered Thumbnail Generator for Content Creators.</strong></p>
+        <p> Generate stunning, click-worthy thumbnails in seconds using Google's Imagen 4.0 and Gemini AI..</p>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-          <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
-          <img src="https://img.shields.io/badge/TMDB_API-01D277?style=flat-square&logo=themoviedatabase&logoColor=white" alt="TMDB API" />
-        </p>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React_19+TypeScript-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Animations-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router_v7-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Express_5+TypeScript-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB+Mongoose-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ+Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sharp-Image_Processing-99CC00?style=flat-square&logo=sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+
+  <!-- External Services -->
+  <img src="https://img.shields.io/badge/Google_AI-Gemini_&_Imagen-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Upstash-Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black" />
+  <img src="https://img.shields.io/badge/Brevo-Email_OTP-0B996E?style=flat-square&logo=maildotru&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cashfree-Payments-0A2FFF?style=flat-square&logo=razorpay&logoColor=white" />
+</p>
       </td>
       <td width="50%" align="center">
         <a href="https://nexora-ai-frontend-nine.vercel.app/" target="_blank">
