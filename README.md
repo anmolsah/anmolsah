@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver;Database+Migration💡" />
 </div>
 
 <h3 align="center">🚀 Passionate Full Stack Developer crafting digital experiences with modern technologies</h3>
